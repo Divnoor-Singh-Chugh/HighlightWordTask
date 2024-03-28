@@ -1,0 +1,12 @@
+.input-div{
+    margin-left: 400px;
+    margin-top: 400px;
+}
+.input-div input{
+    font-size: larger;
+}
+.area-div{
+    margin: 400px;
+    margin-top: 20px;
+    font-size: larger;
+}
